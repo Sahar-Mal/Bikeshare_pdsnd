@@ -1,4 +1,4 @@
-# Explore US Bikeshare Data (Programming for data science)
+# Explore US Bikeshare Data (Programming for data science) :bike:
 
 ### Project Title
 Explore US Bikeshare Data :bike:
