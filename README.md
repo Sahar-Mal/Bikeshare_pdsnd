@@ -1,8 +1,3 @@
-
-
-### Date created
-Include the date you created this project and README file.
-
 # Explore US Bikeshare Data (Programming for data science)
 
 
@@ -21,10 +16,6 @@ using Python to explore data related to bike share systems for three major citie
 * chicago.csv
 * new_york_city.csv
 * washington.csv
-
-
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
 ### The Datasets
 All three of the data files contain the same columns:
